@@ -1,0 +1,17 @@
+*.jsbundle
+*.tsbuildinfo
+*.eslintcache
+.DS_Store
+.history
+.jest
+.vscode
+.env*
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+apps/desktop/config
+apps/mobile/.env
+.idea
+dist
+values-*.yaml
